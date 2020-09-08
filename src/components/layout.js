@@ -21,7 +21,7 @@ const Layout = ({ location, title, children }) => {
             boxShadow: `none`,
             color: `inherit`,
           }}
-          to={`https://docs.ybsnek.com`}
+          to={`http://docs.ybsnek.com.s3-website.eu-north-1.amazonaws.com/`}
         >
           Docs Landingpage
         </Link>
