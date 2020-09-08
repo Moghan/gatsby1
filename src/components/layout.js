@@ -21,6 +21,17 @@ const Layout = ({ location, title, children }) => {
             boxShadow: `none`,
             color: `inherit`,
           }}
+          to={`https://docs.ybsnek.com`}
+        >
+          Docs Landingpage
+        </Link>
+        <br />
+        <br />
+        <Link
+          style={{
+            boxShadow: `none`,
+            color: `inherit`,
+          }}
           to={`/`}
         >
           {title}
